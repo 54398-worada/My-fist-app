@@ -1,6 +1,6 @@
   import streamlit as st
 st.header(f"• ภาษีมูลค่าเพิ่ม (VAT 7%): **{vat:.2f}** บาท")
- price = st.number_input("กรอกราคาสินค้า (บาท):", value=0.0)
+price = st.number_input("กรอกราคาสินค้า (บาท):", value=0.0)
 
 
  vat = price * 0.07
