@@ -161,15 +161,6 @@ if st.session_state.get("is_ended", False):
 
 st.divider()
 
-st.write("🍎 หมวดผลไม้ (Fruits)")
 
-st.write(
-    """
-🍎 Apple | 🍏 Green Apple | 🍌 Banana | 🍊 Orange | 🍋 Lemon |
-🍇 Grapes | 🍓 Strawberry | 🫐 Blueberry | 🍉 Watermelon |
-🍍 Pineapple | 🥭 Mango | 🍑 Peach | 🍒 Cherry |
-🥥 Coconut | 🥑 Avocado
-"""
-)
 
-st.write("นางสาวดีใจ ยิ้มแย้ม เลขที่ 5 ม.4/5")
+st.write("นางวรดา พึงตน เลขที่14 ม.4/4")
